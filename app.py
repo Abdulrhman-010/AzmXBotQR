@@ -29,10 +29,10 @@ app = App(token=SLACK_BOT_TOKEN, signing_secret=SLACK_SIGNING_SECRET)
 
 # ===== رسائل الترحيب والنجاح =====
 DEVELOPER_INFO = {
-    'name': ':male-technologist: اخوكم عبدالرحمن العنزي',
+    'name': ':اخوكم عبدالرحمن العنزي',
     'email': 'aalanzi@azmx.sa',
     'purpose': 'تسهيل تحويل الروابط إلى باركود بدون استعمال مواقع خارجية',
-    'initiative': 'مبادرة شخصية غير رسمية ✨',
+    'initiative': 'هذا البوت غير رسمي وتم إنشاؤه كمبادرة شخصية',
     'version': 'v3.0',
     'date': 'ديسمبر 2025'
 }
